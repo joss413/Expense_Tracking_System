@@ -2,6 +2,11 @@
 
 This project is an expense Tracking system that consists of a Streamlit frontend application and a FastAPI backend server.
 
+<p align="center">
+  <img src="images/image1.png" alt="Image 1" width="300"/>
+  <img src="images/image2.png" alt="Image 2" width="300"/>
+  <img src="images/image3.png" alt="Image 3" width="300"/>
+</p>
 
 ## Project Structure
 
@@ -31,3 +36,4 @@ This project is an expense Tracking system that consists of a Streamlit frontend
    ```commandline
     streamlit run frontend/app.py
    ```
+
