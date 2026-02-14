@@ -3,8 +3,8 @@
 This project is an expense Tracking system that consists of a Streamlit frontend application and a FastAPI backend server.
 
 <p align="center">
-  <img src="images/image1.jpg" alt="Image 1" width="300"/>
   <img src="images/image2.jpg" alt="Image 2" width="300"/>
+  <img src="images/image1.jpg" alt="Image 1" width="300"/>
   <img src="images/image3.jpg" alt="Image 3" width="300"/>
 </p>
 
@@ -36,5 +36,6 @@ This project is an expense Tracking system that consists of a Streamlit frontend
    ```commandline
     streamlit run frontend/app.py
    ```
+
 
 
